@@ -38,3 +38,4 @@ webcam.release()
 
 
 print("code is here")
+print("code is complete only for human face detection going for other models.")
